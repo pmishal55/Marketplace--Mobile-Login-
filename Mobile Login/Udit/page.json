@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "691248D7-86B2-49B0-A575-D105F4836969",
-  "edited": true,
+  "do_objectID": "E9FBB08B-EE42-4D60-ADE6-8C4EEB54E6C8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,64 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 77.26092599407401,
-    "width": 99.9231330479107,
-    "x": 0.00002385190029203715,
-    "y": 0.02697124787783953
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": true,
-  "isClosed": true,
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -406,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Clip 2",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "class": "artboard",
+      "id": "C26E12AA-546D-4AF0-BE30-17F862E6C18E"
     }
   ],
+  "name": "Udit",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -85,7 +57,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 0.945179584120983,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -112,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "72B0476A-02CD-4B70-AC0F-93C070ACFE07",
+    "do_objectID": "BB12CA66-6AB0-4FA7-B282-1696F7E26ED8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,5 +95,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -301,
+    "guides": [
+    ]
   }
 }
