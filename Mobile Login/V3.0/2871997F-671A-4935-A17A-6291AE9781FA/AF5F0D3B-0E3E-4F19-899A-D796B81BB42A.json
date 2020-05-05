@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 96,
+        "length": 83,
         "location": 0
       }
     ],
-    "string": "User enters a new email. If old Email is entered, then show error (ask to provide another email)"
+    "string": "User enters a new email. Link the email ID against the number and create an account"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 72,
     "y": 562
   },
-  "glyphBounds": "{{3, 2}, {211, 40}}",
+  "glyphBounds": "{{1, 2}, {214, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

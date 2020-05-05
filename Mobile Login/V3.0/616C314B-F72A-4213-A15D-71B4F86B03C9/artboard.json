@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 1200,
-    "y": 2293
+    "x": 740,
+    "y": 9441
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",

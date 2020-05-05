@@ -85,6 +85,18 @@
     },
     {
       "class": "artboard",
+      "id": "C0FDDD66-6859-4C28-95E9-34E15B7E3508"
+    },
+    {
+      "class": "artboard",
+      "id": "72B9DD0D-CB06-4254-AD0F-A0D2EC9E604F"
+    },
+    {
+      "class": "artboard",
+      "id": "360B6023-870B-4A78-BF4A-2CF48BFE822A"
+    },
+    {
+      "class": "artboard",
       "id": "3D608BB3-556F-4948-9940-78ECAA54B500"
     },
     {
@@ -189,6 +201,14 @@
     },
     {
       "class": "text",
+      "id": "86489C0B-FE95-4B49-AF2A-165DFACB3341"
+    },
+    {
+      "class": "text",
+      "id": "AB61889B-08A5-480D-A872-C249DF64DB84"
+    },
+    {
+      "class": "text",
       "id": "7949B292-8D69-4D73-AB5E-156E986532B7"
     },
     {
@@ -206,10 +226,6 @@
     {
       "class": "text",
       "id": "0DB7D835-50AC-4A9A-96E0-1A6A8F74B720"
-    },
-    {
-      "class": "artboard",
-      "id": "89E4C1FE-012F-41D1-9989-57972348427B"
     },
     {
       "class": "text",

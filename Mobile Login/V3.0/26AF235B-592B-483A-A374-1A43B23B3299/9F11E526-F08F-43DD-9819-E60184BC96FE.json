@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 67,
+        "length": 43,
         "location": 0
       }
     ],
-    "string": "Now the user is logged in using a new phone number and new email ID"
+    "string": "Now the user is logged in via new@email.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 72,
     "y": 562
   },
-  "glyphBounds": "{{5, 2}, {207, 26}}",
+  "glyphBounds": "{{30, 2}, {156, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
