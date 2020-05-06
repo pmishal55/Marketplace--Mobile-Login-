@@ -113,6 +113,10 @@
     },
     {
       "class": "artboard",
+      "id": "E954A322-1F90-4F3C-9D43-0C09400A1A04"
+    },
+    {
+      "class": "artboard",
       "id": "EB843147-39F5-4090-AD21-AD0B0CB6B6B9"
     },
     {
@@ -122,10 +126,6 @@
     {
       "class": "artboard",
       "id": "372184A0-2883-4515-9AE0-1F31022C93F0"
-    },
-    {
-      "class": "rectangle",
-      "id": "CF6F7780-23F6-4A34-9D35-07265C6083C3"
     }
   ],
   "name": "V5.0",
