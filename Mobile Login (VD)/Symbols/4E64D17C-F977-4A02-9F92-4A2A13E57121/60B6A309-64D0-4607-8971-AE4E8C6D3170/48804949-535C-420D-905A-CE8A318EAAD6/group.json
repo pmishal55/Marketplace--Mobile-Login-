@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F1F88AC-7355-44D9-B795-D3D227CB2FF7",
+  "do_objectID": "48804949-535C-420D-905A-CE8A318EAAD6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 14,
+    "width": 160,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -585,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "2262DE16-F1FF-4658-8186-BCDEB28F7538"
-    },
-    {
-      "class": "artboard",
-      "id": "4B329693-8E1D-412C-B1E8-E3789BA3717A"
-    },
-    {
       "class": "text",
-      "id": "DD7DF5DE-373B-4830-B71D-24F12A25B31C"
+      "id": "6FA72E65-5E84-43DD-A33B-1FBC6F14A176"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3ADEF568-D892-4F7F-925D-1FF191CB656F"
     }
   ],
-  "name": "Style 2",
-  "nameIsFixed": true,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -84,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -92,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DFDA3539-27A6-4CA1-970A-685A9731D6D5",
+    "do_objectID": "DC33B6F8-EECB-4FBA-A815-900C7A7471AF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,10 +93,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

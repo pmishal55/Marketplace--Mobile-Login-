@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F1F88AC-7355-44D9-B795-D3D227CB2FF7",
+  "do_objectID": "9DC441BA-9437-44D5-865A-5CAB7E7B714F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 187,
+    "x": 38,
+    "y": 277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -585,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,20 +33,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "2262DE16-F1FF-4658-8186-BCDEB28F7538"
-    },
-    {
-      "class": "artboard",
-      "id": "4B329693-8E1D-412C-B1E8-E3789BA3717A"
+      "class": "text",
+      "id": "87D997EF-C1C8-4A5C-8864-BE840FEA8858"
     },
     {
       "class": "text",
-      "id": "DD7DF5DE-373B-4830-B71D-24F12A25B31C"
+      "id": "72BCECAC-D3C4-43D3-A607-B663D80367FC"
+    },
+    {
+      "class": "group",
+      "id": "39FF9041-ED1B-45D8-BD00-180EA780EA33"
     }
   ],
-  "name": "Style 2",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DFDA3539-27A6-4CA1-970A-685A9731D6D5",
+    "do_objectID": "867D144C-ED46-4552-9F1C-6180BA0398A4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }

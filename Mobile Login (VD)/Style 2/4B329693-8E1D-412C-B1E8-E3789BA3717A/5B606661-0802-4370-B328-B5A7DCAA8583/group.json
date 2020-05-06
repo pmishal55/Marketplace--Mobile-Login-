@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F1F88AC-7355-44D9-B795-D3D227CB2FF7",
+  "do_objectID": "5B606661-0802-4370-B328-B5A7DCAA8583",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,62 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 940,
+    "width": 377,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -585,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "2262DE16-F1FF-4658-8186-BCDEB28F7538"
+      "class": "bitmap",
+      "id": "012C0F6F-9DBB-4A8B-A8AD-BB524BF7BCD8"
     },
     {
-      "class": "artboard",
-      "id": "4B329693-8E1D-412C-B1E8-E3789BA3717A"
+      "class": "bitmap",
+      "id": "DF8AF948-D144-4227-9FAE-E7EEE0DF84DA"
+    },
+    {
+      "class": "group",
+      "id": "718F3471-AD78-4E85-99B4-8E89DCEB8EEE"
+    },
+    {
+      "class": "bitmap",
+      "id": "9273F179-5DB0-48DA-9D0D-508DD232F596"
+    },
+    {
+      "class": "bitmap",
+      "id": "74E260AF-E96A-4EAE-A781-D921A640B723"
+    },
+    {
+      "class": "group",
+      "id": "FBA9561E-C3D0-4B7D-B204-5218683939C9"
+    },
+    {
+      "class": "group",
+      "id": "9DC441BA-9437-44D5-865A-5CAB7E7B714F"
     },
     {
       "class": "text",
-      "id": "DD7DF5DE-373B-4830-B71D-24F12A25B31C"
+      "id": "7BEEB6A9-4ED4-49D5-BE81-60856AAED2A9"
+    },
+    {
+      "class": "bitmap",
+      "id": "836FDD9C-85E0-4AD1-8E51-E4F13F984048"
     }
   ],
-  "name": "Style 2",
-  "nameIsFixed": true,
+  "name": "Group 7",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -92,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DFDA3539-27A6-4CA1-970A-685A9731D6D5",
+    "do_objectID": "C4925AC6-8050-479D-8CEA-CAB776FF9474",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,11 +120,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -484,
-    "guides": [
-    ]
   }
 }
