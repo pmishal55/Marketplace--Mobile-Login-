@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 108,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Enjoy Shopping\n\nIf mobile number is not previously registered, then user is logged in via personal@email.com"
+    "string": "Enjoy Shopping"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 14,
     "width": 292,
     "x": 34,
     "y": 482
   },
-  "glyphBounds": "{{7, 2}, {278, 54}}",
+  "glyphBounds": "{{103, 2}, {86, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Enjoy Shopping If mo",
+  "name": "Enjoy Shopping",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

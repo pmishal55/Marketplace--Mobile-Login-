@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 86,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "If mobile number is already registered, then user is logged in via corporate@email.com"
+    "string": "User is logged in into personal@email.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
+    "height": 28,
     "width": 216,
     "x": 72,
     "y": 562
   },
-  "glyphBounds": "{{3, 2}, {211, 40}}",
+  "glyphBounds": "{{51, 2}, {115, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "If mobile number is",
+  "name": "User is logged in in",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

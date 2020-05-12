@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -88,6 +97,10 @@
     {
       "class": "group",
       "id": "8AFA99DF-0C76-46E3-82A6-052F2E0737E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3AB1590-40E6-4CAA-A7F3-061EEE9CE3EC"
     }
   ],
   "name": "Join Screen Copy 13",

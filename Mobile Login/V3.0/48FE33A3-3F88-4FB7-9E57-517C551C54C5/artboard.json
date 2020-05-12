@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 740,
-    "y": -1051
+    "x": 739.9999999999999,
+    "y": -1127
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -105,10 +105,6 @@
     {
       "class": "group",
       "id": "C1D81A1E-BB32-40C1-9F94-71627900CB96"
-    },
-    {
-      "class": "text",
-      "id": "2AE1AC5D-5CCA-47DF-8F31-EF421656616C"
     }
   ],
   "name": "Login (If linked number is verified)",

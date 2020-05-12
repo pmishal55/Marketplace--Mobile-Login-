@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 128,
+        "length": 139,
         "location": 0
       }
     ],
-    "string": "Login (Via Registered Email Address + No mobile number is linked / Number in profile is not verified / Unique number is entered)"
+    "string": "Login (Via Registered Email Address + No mobile number is linked / Number in profile is not verified / Unique number is entered)      (1.1)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 354,
-    "width": 2001,
-    "x": -2522,
-    "y": -178
+    "width": 2451,
+    "x": -2972,
+    "y": -2518
   },
-  "glyphBounds": "{{31, 15}, {1966, 333}}",
+  "glyphBounds": "{{101, 15}, {2348, 333}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

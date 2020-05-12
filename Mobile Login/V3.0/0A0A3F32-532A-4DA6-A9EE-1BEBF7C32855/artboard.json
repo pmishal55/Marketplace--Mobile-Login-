@@ -34,7 +34,7 @@
     "height": 640,
     "width": 360,
     "x": 1200,
-    "y": -1051
+    "y": -1127
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -67,8 +67,12 @@
       "id": "83365DA9-AA4B-467C-8E71-BCC07A2CEE7C"
     },
     {
-      "class": "group",
-      "id": "0CA4B127-4F72-4870-81E2-1A49BE00E4DA"
+      "class": "text",
+      "id": "9B10CCFB-E093-4BCA-BD6E-4226B07FCA58"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DA6F3DF-F768-4DD4-8293-0EC53C741A8F"
     },
     {
       "class": "rectangle",
@@ -97,6 +101,10 @@
     {
       "class": "group",
       "id": "664F31E7-2354-4936-BFC0-9F8C159F35AB"
+    },
+    {
+      "class": "group",
+      "id": "85C3F360-05A6-466F-B4EB-1559C6EE39D6"
     }
   ],
   "name": "Login (Ask for number if clicked on Use OTP)",

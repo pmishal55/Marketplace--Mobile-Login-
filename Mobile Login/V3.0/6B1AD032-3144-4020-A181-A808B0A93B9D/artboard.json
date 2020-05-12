@@ -34,7 +34,7 @@
     "height": 640,
     "width": 360,
     "x": 280,
-    "y": -321
+    "y": -2661
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -93,6 +93,10 @@
     {
       "class": "group",
       "id": "09BC8C18-83AD-4B38-AFE5-4EC96D580EB8"
+    },
+    {
+      "class": "group",
+      "id": "1FE12581-D6D4-46F0-B41E-75791D352442"
     }
   ],
   "name": "Login (Registered Email ID)",

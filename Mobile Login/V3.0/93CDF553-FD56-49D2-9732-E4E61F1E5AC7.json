@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 88,
+        "length": 101,
         "location": 0
       }
     ],
-    "string": "Login using registered mobile number\n(Both Verified and Non Verified Numbers)(Using OTP)"
+    "string": "Login using registered mobile number\n(Both Verified and Non Verified Numbers)(Using OTP).       (2.3)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 236,
-    "width": 2422,
-    "x": -2943,
+    "width": 2827,
+    "x": -3348,
     "y": 5479
   },
-  "glyphBounds": "{{5, 21}, {2418, 212}}",
+  "glyphBounds": "{{5, 21}, {2824, 212}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 93,
+        "length": 101,
         "location": 0
       }
     ],
-    "string": "Looks like the email you have entered is already being used. Try using another email instead."
+    "string": "Looks like the email you have entered is already being used. Try logging in using this email instead."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,9 +53,9 @@
     "height": 28,
     "width": 292,
     "x": 34,
-    "y": 541
+    "y": 510
   },
-  "glyphBounds": "{{15, 2}, {263, 26}}",
+  "glyphBounds": "{{7, 2}, {278, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -56,6 +65,10 @@
     {
       "class": "oval",
       "id": "0C4846ED-4C2F-4670-B859-EF6B64DE93BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0A2AF3C-E7D7-410B-9CE3-2367E421E606"
     },
     {
       "class": "symbolInstance",

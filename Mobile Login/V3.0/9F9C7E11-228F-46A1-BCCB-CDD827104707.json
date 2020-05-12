@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 69,
+        "length": 83,
         "location": 0
       }
     ],
-    "string": "Registration (Via new email address) + Unique phone number is entered"
+    "string": "Registration (Via new email address) + Unique phone number is entered         (3.1)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": -2571,
     "y": 7214
   },
-  "glyphBounds": "{{292, 15}, {1754, 215}}",
+  "glyphBounds": "{{130, 15}, {1916, 215}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

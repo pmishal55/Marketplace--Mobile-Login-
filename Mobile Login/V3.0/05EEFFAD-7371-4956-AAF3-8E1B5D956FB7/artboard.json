@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -58,16 +58,16 @@
       "id": "E494723F-405B-4990-9F94-B7202E10C87E"
     },
     {
+      "class": "group",
+      "id": "D83C6235-D708-41E5-B30E-E37D072F2102"
+    },
+    {
       "class": "rectangle",
       "id": "A66D6264-D38E-4D24-B587-2B08A8A0081B"
     },
     {
       "class": "group",
       "id": "855FC5F2-BAEB-44A0-9386-5250012E693A"
-    },
-    {
-      "class": "group",
-      "id": "822E04AA-2A9A-49E7-8414-5D8471F38695"
     },
     {
       "class": "group",
@@ -88,6 +88,10 @@
     {
       "class": "group",
       "id": "C6CB2FAD-B726-4430-A8CF-3B486DEE68C1"
+    },
+    {
+      "class": "group",
+      "id": "522F2509-0310-464A-9C63-9D1E0C0A1034"
     }
   ],
   "name": "Android Copy 28",

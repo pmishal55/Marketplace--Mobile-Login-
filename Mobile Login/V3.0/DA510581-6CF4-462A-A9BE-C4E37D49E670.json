@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 65,
+        "length": 80,
         "location": 0
       }
     ],
-    "string": "Registration (Via new email address) + Existing Number is entered"
+    "string": "Registration (Via new email address) + Existing Number is entered.         (3.2)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

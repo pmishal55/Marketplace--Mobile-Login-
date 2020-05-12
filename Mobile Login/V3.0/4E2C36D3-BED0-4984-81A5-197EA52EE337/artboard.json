@@ -34,7 +34,7 @@
     "height": 640,
     "width": 360,
     "x": 2120,
-    "y": -321
+    "y": -2661
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -97,6 +97,10 @@
     {
       "class": "group",
       "id": "E4CC1D17-A4ED-40CE-9A68-1FE913D8C74D"
+    },
+    {
+      "class": "text",
+      "id": "4770D57D-2DBC-4DA9-AA83-DA1081FEEFD8"
     }
   ],
   "name": "Login (Send OTP)",

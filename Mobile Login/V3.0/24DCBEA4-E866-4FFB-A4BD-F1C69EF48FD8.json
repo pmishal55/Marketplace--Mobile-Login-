@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 57,
+        "length": 70,
         "location": 0
       }
     ],
-    "string": "Login using registered mobile number\n(No Password is set)"
+    "string": "Login using registered mobile number\n(No Password is set).       (2.1)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

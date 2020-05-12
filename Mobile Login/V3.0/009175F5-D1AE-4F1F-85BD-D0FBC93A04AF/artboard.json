@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -97,6 +97,10 @@
     {
       "class": "group",
       "id": "A64E247B-3849-4300-8CE9-B24B1A784C2B"
+    },
+    {
+      "class": "text",
+      "id": "4278D610-15EC-46C1-B1F0-0B882433474F"
     }
   ],
   "name": "Registration (Phone Number entered) Copy",

@@ -33,28 +33,28 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0725F4D8-D1D2-4924-8176-930A221E680E"
+      "class": "group",
+      "id": "E1E52542-F0F7-4521-A67B-26D53388BB5F"
     },
     {
-      "class": "symbolInstance",
-      "id": "45FE39A1-073E-4342-9FA0-04555874DE1F"
+      "class": "group",
+      "id": "EDCC03A0-3638-444F-A00D-AE8089722E4C"
     },
     {
-      "class": "symbolInstance",
-      "id": "B16EF049-7163-4D34-8C94-D0BD34637E3F"
+      "class": "group",
+      "id": "0CE143C5-0BAE-4A60-9598-3AE7DE1E8E96"
     },
     {
-      "class": "symbolInstance",
-      "id": "8DF4B30A-DE1E-4A11-8835-83CB84A72C49"
+      "class": "group",
+      "id": "07B120DD-2102-45FA-BE23-972F997ED7F0"
     },
     {
-      "class": "symbolInstance",
-      "id": "9268D6C1-4226-4F9D-AE49-F0AEB5BEEA73"
+      "class": "group",
+      "id": "B77301E8-A09C-40E8-9956-15440F047998"
     },
     {
-      "class": "symbolInstance",
-      "id": "5FB3668C-4874-4E43-AE8B-CC694451E2BA"
+      "class": "group",
+      "id": "62050962-D19D-4663-9DC0-E5BDCA215DCD"
     }
   ],
   "name": "Group 2",
