@@ -59,36 +59,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2DEA8851-6E7F-4A95-B153-662B06003CA6"
-    },
-    {
       "class": "group",
-      "id": "76248320-9CF2-4F7A-81F5-9E8755C4CEF6"
-    },
-    {
-      "class": "rectangle",
-      "id": "512BB516-3856-40F3-B25B-07C1730930E3"
-    },
-    {
-      "class": "text",
-      "id": "DB8E4D56-437C-49BA-B44E-B4C64BC92E88"
-    },
-    {
-      "class": "group",
-      "id": "ABF11C75-8685-467B-9F1F-DA66D2058965"
-    },
-    {
-      "class": "group",
-      "id": "415076D9-D8DD-4654-B846-DE92EF4629F2"
-    },
-    {
-      "class": "group",
-      "id": "8B554182-620E-42FD-A00C-E88F3EB65843"
-    },
-    {
-      "class": "text",
-      "id": "6322DA81-DC41-4A80-8BFB-BF8589DC018A"
+      "id": "91A38DA2-E74E-425C-BA4E-26E4AFDFB1A8"
     }
   ],
   "name": "Join Screen Copy 34",

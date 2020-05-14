@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 63,
+        "length": 76,
         "location": 0
       }
     ],
-    "string": "Registration (Via new mobile number) + (Existing email entered)"
+    "string": "Registration (Via new mobile number) + (Existing email entered).       (4.2)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

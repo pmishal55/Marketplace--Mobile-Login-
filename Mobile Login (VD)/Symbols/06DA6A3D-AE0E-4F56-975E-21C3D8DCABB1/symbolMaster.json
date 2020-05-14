@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
   "do_objectID": "06DA6A3D-AE0E-4F56-975E-21C3D8DCABB1",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,11 @@
   "name": "Left Aligned CTA",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B8313A17-477B-4B72-8E48-D6A90853C3F6_stringValue"
+    }
   ],
   "presetDictionary": {
   },

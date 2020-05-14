@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 13,
   "clippingMaskMode": 0,
   "do_objectID": "DCF8DAB9-5834-4C5A-9784-30E265DFEE8B",
   "exportOptions": {
@@ -57,9 +57,14 @@
       "id": "452227AC-3554-43B5-AB70-3C6732DFDDB0"
     }
   ],
-  "name": "Inactice CTA",
-  "nameIsFixed": false,
+  "name": "Inactive CTA",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30CB27E9-D0CE-4064-8AC9-0F2DD89071D8_stringValue"
+    }
   ],
   "presetDictionary": {
   },

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 55,
   "clippingMaskMode": 0,
   "do_objectID": "57AAA278-7C5D-45DE-AF6D-57AFFBC5BCE4",
   "exportOptions": {
@@ -60,6 +60,16 @@
   "name": "Number Input",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CCDDD097-F86C-425B-A1C6-452060DCFC43_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "58D7440D-E5B4-4AE3-9FF1-2AB219E21B12_stringValue"
+    }
   ],
   "presetDictionary": {
   },
