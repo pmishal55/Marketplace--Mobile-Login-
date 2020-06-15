@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "2724BE9E-C9F9-4141-A2D4-70E1B3C598BA",
+  "do_objectID": "11EB8ED7-2F8D-4AC0-BA79-04D038B1FA95",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 910,
-    "width": 1001,
-    "x": -82,
-    "y": -913
+    "height": 50,
+    "width": 300,
+    "x": 1749,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,75 +50,17 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "444B3DD8-9816-4F3A-9DF1-DB349227CDF5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A8D9EED8-E2B4-4748-841C-453CC1E67FE6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "62CF75C5-7E6E-46E2-92C8-E48B6BE8FB85"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6E3AC917-7E95-42F4-BFC6-4E5FD6B972EC"
-    },
-    {
       "class": "group",
-      "id": "AA46DF61-856F-4F2F-9641-A62B411AA7BB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E4D190AE-FD9B-44F0-B2C0-1F3DE158984A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9BA3453C-317B-4696-9578-AD3C42379C32"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "965BDDB7-76D9-4969-A021-ECA953CED05B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A475A277-35EF-473B-9835-773F724286A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EBC53CED-8F86-449A-A3CE-655B99484FC5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BDB3CF6A-E2E2-431B-9E60-DF974DECEA25"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3F24193F-A516-457B-9878-7A6C4D452AEA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EAE71482-AB84-4CC3-BADB-955B1E56DB4C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "122CB158-9838-42EF-AF8E-779FB5689CE3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B52D9100-B644-4C09-A525-5E0F7DE289CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B1C3016F-BCC2-4184-ABBF-E2903ECF199A"
+      "id": "CCF40A34-3926-41F9-9243-ACEDFB6F6E27"
     }
   ],
-  "name": "Artboard",
+  "name": "Test_CTA",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -157,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "89E2968A-2551-4F0D-A8C5-2F9FCF5F3C30",
+    "do_objectID": "501BDC9B-C858-4CE5-B680-EFBB2A831E80",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -169,6 +114,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "41632620-DE4F-4A6F-81F7-E5B72BAC8D1A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
