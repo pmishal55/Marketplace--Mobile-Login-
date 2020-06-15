@@ -1,0 +1,196 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8B9D1AC-F671-40E5-9651-E01328C763B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 740,
+    "width": 360,
+    "x": 232,
+    "y": -321
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "97FEC113-E3D7-4610-877A-5158C5CBCA0D"
+    },
+    {
+      "class": "text",
+      "id": "C7B10EBC-F4DE-4843-AC7E-D8B9AA4C6A9E"
+    },
+    {
+      "class": "text",
+      "id": "6F0903FC-BF13-490A-B4B5-1CE0479F10E8"
+    },
+    {
+      "class": "text",
+      "id": "18EE63B8-5739-4E10-B012-132AF020FCF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50300047-DF24-414D-ACDD-CD127D36331A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD1B3DEF-A782-4834-857E-E57363782753"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A87D8D51-703E-4724-A15A-C544E16F023B"
+    },
+    {
+      "class": "text",
+      "id": "4696F044-6EF6-43C2-9103-E06432D8B9F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C208C60-3E7B-471E-ADD7-0335D47CD03D"
+    },
+    {
+      "class": "text",
+      "id": "E8866AC4-6A18-4909-8F7E-CBBD72D0F58A"
+    },
+    {
+      "class": "rectangle",
+      "id": "127BC6EB-F777-4D22-9D45-CF64C1D4F802"
+    },
+    {
+      "class": "text",
+      "id": "BD76AC4E-9382-4B25-B86D-F983AFC7A00F"
+    },
+    {
+      "class": "rectangle",
+      "id": "63CE8D56-20D7-4268-9F6C-816CCCDD26E0"
+    },
+    {
+      "class": "text",
+      "id": "F73184DE-A7B5-4D34-BBD4-FB8C89BF6B9A"
+    },
+    {
+      "class": "text",
+      "id": "F4A70258-659D-42C5-9030-83EA837D899C"
+    },
+    {
+      "class": "group",
+      "id": "199A6DDF-8C10-4E08-9F79-9B8C094D725D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D88092E-5304-4BB3-8368-1D60466A2008"
+    }
+  ],
+  "name": "Android Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Pixel 3 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "389814B8-79D1-4E03-934B-1DF1EF08990A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
