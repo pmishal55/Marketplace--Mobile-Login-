@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 227,
+        "length": 240,
         "location": 0
       }
     ],
-    "string": "Apps can auto populate the users data if available. This can include text inputs such as usernames, E-mail addresses, mobile numbers and addresses etc. Even passwords can be saved in web browsers for a quicker login experience."
+    "string": "Apps/Web browsers can auto populate the users data if available. This can include text inputs such as usernames, E-mail addresses, mobile numbers and addresses etc. Even passwords can be saved in web browsers for a quicker login experience."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 168,
+    "height": 192,
     "width": 310,
     "x": 90,
     "y": 240
   },
-  "glyphBounds": "{{0, 5}, {302, 161}}",
+  "glyphBounds": "{{0, 3}, {302, 187}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Apps can auto popula",
+  "name": "Apps/Web browsers ca",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
