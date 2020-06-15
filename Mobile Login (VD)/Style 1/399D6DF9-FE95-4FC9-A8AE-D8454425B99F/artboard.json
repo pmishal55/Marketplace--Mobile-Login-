@@ -69,38 +69,6 @@
     {
       "class": "rectangle",
       "id": "C44FB8FA-EBB9-4DFC-BF3E-828452AADECF"
-    },
-    {
-      "class": "rectangle",
-      "id": "24AE5352-17D9-4B77-886A-B2C7764BF0F2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0D300D83-81EB-459E-848F-078451208209"
-    },
-    {
-      "class": "group",
-      "id": "5361A199-AEBE-4B8A-BAD6-3AC233961D57"
-    },
-    {
-      "class": "text",
-      "id": "D8E0A940-01CA-4A34-8203-C8D3C59DF436"
-    },
-    {
-      "class": "text",
-      "id": "C24FB8AD-DE6B-4A2B-9E73-02269A1A4103"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C71674DB-9655-4148-AEFA-1E77BA459299"
-    },
-    {
-      "class": "group",
-      "id": "C8475205-7FFB-4DAA-B980-0D24A7664EFD"
-    },
-    {
-      "class": "text",
-      "id": "8C091F56-9A2D-4285-8ACF-87CDA0337E52"
     }
   ],
   "name": "Join Screen Copy 33",

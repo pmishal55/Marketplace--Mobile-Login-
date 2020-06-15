@@ -1,8 +1,15 @@
 {
-  "_class": "group",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3607843137254902,
+    "green": 0.1098039215686274,
+    "red": 0.8549019607843137
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EDCC03A0-3638-444F-A00D-AE8089722E4C",
+  "do_objectID": "C914AE22-89F0-460C-8E59-B871E6F59D3C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,34 +22,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 41,
-    "x": 51,
-    "y": 0
+    "height": 720,
+    "width": 360,
+    "x": 838,
+    "y": 97
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "E7392B02-8603-4734-91D4-5CC6B4A7D7AB"
-    }
   ],
-  "name": "OTP Input Copy",
-  "nameIsFixed": false,
+  "name": "Join Screen Copy 23",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 3",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -77,7 +98,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9C74FAD7-56C8-4FA8-A6DB-83B6C106BE2B",
+    "do_objectID": "AE25BDA5-A6E8-4F7A-8B4D-0B29247EFBBC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +109,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
