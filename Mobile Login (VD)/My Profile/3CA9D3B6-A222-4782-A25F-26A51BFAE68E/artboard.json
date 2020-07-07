@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 740,
     "width": 360,
-    "x": -180,
-    "y": -321
+    "x": -592,
+    "y": 538
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,68 +63,32 @@
       "id": "ED596DAC-FFFF-4ABE-9654-6D25863540D8"
     },
     {
-      "class": "text",
-      "id": "163F56E4-299B-4736-B582-18F2B50A3C16"
-    },
-    {
-      "class": "text",
-      "id": "6260AAEA-793B-4766-BB14-678D8ADE746E"
-    },
-    {
-      "class": "text",
-      "id": "EE7C3614-7C3B-4246-BFAD-AC3084245F67"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "64BDD046-BC32-4C6F-8D2B-6D9A8142E10F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "127C040E-4081-480A-B3B7-EC211E67E9D2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EBCB0A3A-E1DC-4AC1-9A34-85E1414EAF90"
-    },
-    {
-      "class": "text",
-      "id": "D25AC2F8-32D1-4558-BE64-15D210F56DA5"
-    },
-    {
-      "class": "rectangle",
-      "id": "A48536A8-8F19-48B7-BAC5-0347C54B7A1D"
-    },
-    {
-      "class": "text",
-      "id": "046C14F4-2419-4D18-86CC-F84C728C69A9"
-    },
-    {
-      "class": "rectangle",
-      "id": "72FE2773-AAE6-477D-8749-19F2BB6FE139"
-    },
-    {
-      "class": "text",
-      "id": "35F4BFFA-47A6-47FB-99AA-810C7364D54A"
-    },
-    {
-      "class": "rectangle",
-      "id": "AE9121AD-B2C7-400D-9A94-78B28285842B"
-    },
-    {
-      "class": "text",
-      "id": "3370DA55-4BE2-4158-AF9C-5D51F33DC00D"
-    },
-    {
-      "class": "text",
-      "id": "46FF807C-BA96-4317-B566-D0EC53643DBA"
+      "class": "group",
+      "id": "6FAF0AC3-4067-4B54-B85A-1235E73F60A7"
     },
     {
       "class": "group",
-      "id": "019A2C71-ECEE-430E-A60C-939507BD96C4"
+      "id": "B9E9E3A2-EF15-42F7-9A69-00484E76551F"
+    },
+    {
+      "class": "group",
+      "id": "18F96B95-D8B0-48C3-AEBB-B76C1A07610A"
+    },
+    {
+      "class": "group",
+      "id": "9E4ED7E4-A211-4FDB-BB74-CCB0D2C62A3F"
+    },
+    {
+      "class": "group",
+      "id": "14B39550-32B0-4003-8F64-3C60CEE4358A"
     },
     {
       "class": "symbolInstance",
       "id": "2DB4C32A-0D16-4EB9-9583-3C3E92CD1E8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F36C629-5107-4212-9B65-EF378F7C22DB"
     }
   ],
   "name": "Android",
