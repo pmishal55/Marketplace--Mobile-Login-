@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": 3598,
+    "x": 4831,
     "y": 12771
   },
   "groupLayout": {
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",

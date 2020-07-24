@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
   "do_objectID": "02E8628B-80E7-4226-96FD-F8D5EB3780F8",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -68,6 +68,16 @@
   "name": "Almost there",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BED47A62-129C-44E8-A387-9B6E534BA0DC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3C2FB61D-AEAF-462D-AD63-8EAFF820FA69_stringValue"
+    }
   ],
   "presetDictionary": {
   },

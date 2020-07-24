@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 104,
+        "length": 102,
         "location": 0
       }
     ],
-    "string": "Change Password\n(Should we ask for the existing password or directly send an OTP on the existing email?)"
+    "string": "Change Password\n(Should we ask for the existing password or directly send an OTP on the mobile number)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": -1048,
     "y": 1696
   },
-  "glyphBounds": "{{1, 8}, {368, 204}}",
+  "glyphBounds": "{{1, 8}, {368, 202}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

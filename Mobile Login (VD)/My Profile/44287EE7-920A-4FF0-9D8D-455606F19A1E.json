@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 45,
         "location": 0
       }
     ],
-    "string": "Set a new Password"
+    "string": "Set a new Password\n\n(OTP Number Verification)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 43,
-    "width": 309,
+    "height": 129,
+    "width": 412,
     "x": -1048,
     "y": 875
   },
-  "glyphBounds": "{{1, 8}, {306, 26}}",
+  "glyphBounds": "{{0, 8}, {410, 116}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Set a new Password",
+  "name": "Set a new Password (",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

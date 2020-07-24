@@ -141,6 +141,18 @@
     },
     {
       "class": "artboard",
+      "id": "476FDF14-D85B-460D-B62E-9084FBA65700"
+    },
+    {
+      "class": "artboard",
+      "id": "4BCDC5FE-189F-4816-B852-80A61BD0A1BD"
+    },
+    {
+      "class": "artboard",
+      "id": "C1AFE26D-4B47-47C7-A07B-CD34CD5F0E8C"
+    },
+    {
+      "class": "artboard",
       "id": "53B0988C-FA92-49C2-871C-7683EA17D3CB"
     },
     {
@@ -170,6 +182,14 @@
     {
       "class": "artboard",
       "id": "603C24D7-BC25-4995-ABF7-6CC1E71BA694"
+    },
+    {
+      "class": "artboard",
+      "id": "A1754FED-516D-4BB5-9D0A-B28D59601278"
+    },
+    {
+      "class": "artboard",
+      "id": "2674A5D8-278C-4B08-860D-2A72173353A6"
     },
     {
       "class": "artboard",
@@ -662,6 +682,14 @@
     {
       "class": "artboard",
       "id": "3AF24359-61FD-4DF5-8C24-50E1D39E7EF1"
+    },
+    {
+      "class": "text",
+      "id": "4B76806D-A315-4A8B-93E4-9EFA62D52C03"
+    },
+    {
+      "class": "text",
+      "id": "BEF43293-1D0B-4570-8796-11EF3D2A2B7C"
     }
   ],
   "name": "Mobile Designs",

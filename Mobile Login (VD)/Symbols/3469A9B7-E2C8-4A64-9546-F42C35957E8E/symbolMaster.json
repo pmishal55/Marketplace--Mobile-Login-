@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "3469A9B7-E2C8-4A64-9546-F42C35957E8E",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,36 @@
   "name": "OTP Input Entered",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AA3C3459-2672-4A80-87E4-D0DA3D374018_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C635E5A4-274B-4DCC-B6E8-95CD4FFD4111_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "432BABD9-422C-4EC0-B144-E374FBB121B6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0EED4850-A905-43AC-9899-C6F98F64C655_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "666A7DC7-5CBF-42B3-AD2D-BEBCB8D5C798_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4E5998CC-E90A-4800-80E9-E19683D43131_stringValue"
+    }
   ],
   "presetDictionary": {
   },
