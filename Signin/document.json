@@ -28,7 +28,6 @@
   "fontReferences": [
     {
       "_class": "fontReference",
-      "do_objectID": "18F78D33-2DE0-46A6-B0EA-E63E61AE38CA",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Medium.ttf",
       "options": 2,
@@ -38,7 +37,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "1A5F7C95-FD0B-40D5-AD00-E6852C3DE3BB",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Black.ttf",
       "options": 0,
@@ -48,7 +46,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "2BCDF159-80B2-4316-95C4-387F533832FA",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-MediumItalic.ttf",
       "options": 0,
@@ -58,7 +55,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "2CAB3D1C-DDF0-448A-9C0C-84603CAB39D1",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-BlackItalic.ttf",
       "options": 0,
@@ -68,7 +64,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "3018E7A1-7901-4687-ABE3-8815800F91E9",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-LightItalic.ttf",
       "options": 0,
@@ -78,7 +73,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "3BE4AA0E-D212-46E8-A372-87E97DDF5682",
       "fontFamilyName": "Overpass",
       "fontFileName": "Overpass-Italic.ttf",
       "options": 0,
@@ -88,7 +82,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "4BD633BB-E3AF-47FF-8879-70B232338DA5",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-MediumItalic.ttf",
       "options": 0,
@@ -98,7 +91,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "67FA7489-B34E-4AA2-A1BC-A9DCEEE4ADCE",
       "fontFamilyName": "Overpass",
       "fontFileName": "Overpass-Regular.ttf",
       "options": 2,
@@ -108,7 +100,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "68AA3F4C-2476-4FE8-8E1D-FE0F14DB5A6B",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Regular.ttf",
       "options": 2,
@@ -118,7 +109,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "6B074C08-58D4-4DF4-B608-4D7980D0F517",
       "fontFamilyName": "Overpass",
       "fontFileName": "Overpass-Bold.ttf",
       "options": 2,
@@ -128,7 +118,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "70E7C406-0858-4679-BEB7-6FEB32B3A795",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Bold.ttf",
       "options": 0,
@@ -138,7 +127,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "71E3EC2E-5489-4E0A-8191-1432A36A2BA9",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-BoldItalic.ttf",
       "options": 0,
@@ -148,7 +136,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "75EB074B-D2C9-4B50-991B-8AB4565AD732",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Light.ttf",
       "options": 0,
@@ -158,7 +145,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "7CBABC2A-B459-4967-9747-EB8653D56FDC",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-ThinItalic.ttf",
       "options": 0,
@@ -168,7 +154,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "856C0FD1-804F-4276-99E2-7C034AF99E3F",
       "fontFamilyName": "Overpass",
       "fontFileName": "Overpass-BoldItalic.ttf",
       "options": 0,
@@ -178,7 +163,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "9D168605-FFB5-4E87-A3B3-77DAC753B3F6",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Regular.ttf",
       "options": 2,
@@ -188,7 +172,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "A7ECBB59-CA10-4B2D-938A-3FAF3AA502E1",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-BlackItalic.ttf",
       "options": 0,
@@ -198,7 +181,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "A8255DE7-9DEA-4D17-B811-8BE2FFE38FAA",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Black.ttf",
       "options": 0,
@@ -208,7 +190,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "C7D8E875-299D-4412-ADF3-6CC4711D4EF8",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Thin.ttf",
       "options": 0,
@@ -218,7 +199,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "CBE43DF1-2634-42BE-974C-C53EFB13B44C",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Italic.ttf",
       "options": 0,
@@ -228,7 +208,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "CCF22F85-A2D8-4076-AC12-0965A0C3EF6D",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-BoldItalic.ttf",
       "options": 0,
@@ -238,7 +217,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "D8D738FB-1E27-4EED-88DB-284546280083",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-LightItalic.ttf",
       "options": 0,
@@ -248,7 +226,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "E18EF172-A108-4CE8-9EFA-8746259048F8",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Italic.ttf",
       "options": 0,
@@ -258,7 +235,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "F2D9A966-BC0D-4528-8567-83573875CDD5",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Light.ttf",
       "options": 0,
@@ -268,7 +244,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "F53108C9-74F1-4F0F-AFED-EE5E3122136E",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Bold.ttf",
       "options": 0,
@@ -278,7 +253,6 @@
     },
     {
       "_class": "fontReference",
-      "do_objectID": "F828D31F-FAAE-4B47-BC57-C5FA888E5E36",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Medium.ttf",
       "options": 2,
@@ -38013,12 +37987,13 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
+    "appVersion": "66.1",
+    "build": 97080,
     "version": 130
   },
   "pages": [
     "Page 1",
+    "Page 2",
     "Symbols"
   ],
   "sharedSwatches": {

@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8995697463768116,
+    "green": 0.8995697463768116,
+    "red": 0.8995697463768116
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05D0478D-514F-488C-898E-4F45A0BE797F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 1892,
+    "y": 3142
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2067A1F7-C0AC-40D6-935F-E9F0B4C8F7D4"
+    },
+    {
+      "class": "bitmap",
+      "id": "F335B022-CB27-4A84-9834-F723D62B4C0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "287B8B6A-7FEF-47FE-BB70-728E709BA017"
+    },
+    {
+      "class": "rectangle",
+      "id": "75D0E59F-A07F-43B9-8629-C4D26A90AF91"
+    },
+    {
+      "class": "rectangle",
+      "id": "996EC961-2B41-4CC5-8223-71B3C891D6ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CBA395F-FEE4-4937-9295-670DF7514DC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "729C3D33-E5CE-44B5-BF5A-1F93BCDFD4FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9981E002-F6B1-49BC-B7F2-090880EFBB1A"
+    },
+    {
+      "class": "text",
+      "id": "F79A81D4-ECA0-4876-B0E0-A8C586B149DF"
+    },
+    {
+      "class": "text",
+      "id": "7E0E5213-1304-4C7A-84B8-9A3A456F0ABC"
+    },
+    {
+      "class": "group",
+      "id": "0FC7FC3D-F6CD-452E-AF67-9F6C782956BD"
+    }
+  ],
+  "name": "iPhone 11 Pro Copy 5",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone 11 Pro",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F47BCBF5-F8F9-4947-96D9-B56D155A54A0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
