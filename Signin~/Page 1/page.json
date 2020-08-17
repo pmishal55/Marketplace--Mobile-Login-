@@ -41,6 +41,26 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "F8716DEB-B0BD-4B62-9CF2-EED2EB6F25A3"
+    },
+    {
+      "class": "artboard",
+      "id": "5C280311-7DEE-41A7-A600-922B9810D72D"
+    },
+    {
+      "class": "artboard",
+      "id": "166D6E01-06F1-4507-BC57-31EB32C5CB6A"
+    },
+    {
+      "class": "artboard",
+      "id": "B7FDCFFA-0E18-4CA5-A5E8-5652FF876BC4"
+    },
+    {
+      "class": "artboard",
+      "id": "96CB8423-EA88-452A-AAFD-B1AB8A4C5DEE"
+    },
+    {
+      "class": "artboard",
       "id": "1BFA9367-EEA7-4B1E-A0C3-33A053DE81B0"
     },
     {
@@ -110,6 +130,22 @@
     {
       "class": "bitmap",
       "id": "999A39EC-6EA0-479E-BA32-6692BEF2819E"
+    },
+    {
+      "class": "artboard",
+      "id": "F0C307CC-D888-4FDC-B6EA-BD7663E1F394"
+    },
+    {
+      "class": "artboard",
+      "id": "62347FA0-EECC-45EF-B46F-86B823F59B0F"
+    },
+    {
+      "class": "artboard",
+      "id": "91EAC127-7022-4478-B931-C6E947DD0E2F"
+    },
+    {
+      "class": "artboard",
+      "id": "26A42D48-039A-4801-AAFE-74DCCCAA264E"
     }
   ],
   "name": "Page 1",
